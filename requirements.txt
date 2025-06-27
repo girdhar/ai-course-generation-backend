@@ -1,0 +1,14 @@
+flask
+flask-cors 
+uvicorn
+python-multipart
+azure-storage-blob
+dotenv
+langchain 
+langchain_community
+langchain-openai
+PyPDF2
+beautifulsoup4
+python-pptx
+lxml
+azure-storage-queue
